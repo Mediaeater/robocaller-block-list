@@ -14,5 +14,4 @@ From this screen, you can add more people to your blocked list, or tap Edit to u
 
 As you know these calls are both illegal and come at the most in opportune times! 
 
-https://github.com/Mediaeater/robocaller-block-list/tree/robocaller-block-list
-
+https://github.com/Mediaeater/robocaller-block-list/blob/master/robo-caller%20list
